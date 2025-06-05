@@ -1,4 +1,4 @@
-** 🥬 Final Project: Vegetable Growing Assistant using ChromaDB & OpenAI **
+// 🥬 Final Project: Vegetable Growing Assistant using ChromaDB & OpenAI //
 
 ** 📌 Overview  **
 This project is a lightweight Retrieval-Augmented Generation (RAG) system that helps answer questions about growing vegetables in Florida. It combines document-based semantic search with OpenAI’s GPT model to provide grounded and accurate responses based only on local PDF data.
