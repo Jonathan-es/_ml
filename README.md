@@ -10,4 +10,4 @@
 課程教材 | https://github.com/ccc113b/py2cs
 
 
-我參考同學的，使用ChatGPT進行調試
+我參考同學，使用ChatGPT進行調試
